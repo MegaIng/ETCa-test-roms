@@ -1,0 +1,4 @@
+TEST ETCa|x|test_fundamental| Basic output operations are failing
+JUMP|x|test_forward_jmp| Forward jumps aren't quite correct
+PMUJ|x|test_backward_jmp| Backward jumps aren't quite correct
+SUCCESS|x|final| Well, this breaking is very weird...
